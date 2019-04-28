@@ -3,7 +3,7 @@
 实现了卷积、全连接、下采样、relu、sigmod、softmax、等等前向、反向传播，将6类车标作为输入进行模型训练，不过是CPU版本的
 
 ### 基于车标的 6分类模型  
-两层卷积+1层全连接+softmax_with_loss  
+两层卷积+relu +下采样+ 1层全连接+softmax_with_loss  
 具体参数看代码  
 编写环境  python 2.7   pycharm 2017（没什么影响）  
 
