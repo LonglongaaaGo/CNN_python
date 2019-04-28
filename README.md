@@ -75,7 +75,8 @@ venv  文件夹
 4.run main.py  
 5.在对应的结果文件夹内，会有模型和参数等保存  
 6.调用Analyze_.py 进行分析   
-### 如果有什么问题请及时和我联系！！欢迎交流！！
+### 如果有什么问题请及时和我联系！！欢迎交流！！  
+csdn: https://blog.csdn.net/Willen_/article/details/84850782
 
 
 
